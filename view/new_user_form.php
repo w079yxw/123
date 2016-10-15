@@ -45,5 +45,5 @@
             
         </main>
 <?php include 'view/uniform/footer.php'; 
-
+echo "123";
 ?>
