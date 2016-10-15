@@ -90,6 +90,7 @@ switch ($action){
             echo ("Username is taken. Try again.");
         }
         echo 'New user added. Login to continue.';
+        echo 'hello';
         break;
 }
 
